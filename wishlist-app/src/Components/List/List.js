@@ -6,7 +6,7 @@ import "./List.css"
 export default function List() {
 	return (
 		<>
-			<div className="title">My List</div>
+			<div className="my-list">My List</div>
 			<Item />
 		</>
 	)

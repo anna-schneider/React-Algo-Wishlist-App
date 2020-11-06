@@ -5,10 +5,12 @@ import "./Item.css"
 export default function Item() {
 	return (
 		<>
-			<div className="item">Dumplings</div>
-			<div className="item">A Dev Job</div>
-			<div className="item">A Hammock</div>
-			<div className="item">More Jordans</div>
+			<ul>
+				<li className="item">Dumplings</li>
+				<li className="item">A Dev Job</li>
+				<li className="item">A Hammock</li>
+				<li className="item">More Jordans</li>
+			</ul>
 		</>
 	)
 }

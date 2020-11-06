@@ -1,1 +1,6 @@
-/* css */
+footer {
+	background-color: rgb(216 142 83);
+	height: 50px;
+	margin: 80px 370px 0 370px;
+	box-shadow: 8px 0px 12px rgb(178, 178, 178);
+}

@@ -1,3 +1,11 @@
-.title {
+.my-list {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	background-color: rgb(126, 190, 192);
+	height: 100px;
+	margin: 50px 550px;
+	font-size: 30px;
+	font-weight: 600;
+	box-shadow: 0px 8px 12px rgb(178, 178, 178);
 }
