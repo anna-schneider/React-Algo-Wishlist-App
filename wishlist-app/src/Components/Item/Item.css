@@ -1,1 +1,11 @@
-/* css */
+.item {
+	display: flex;
+	justify-content: center;
+	background-color: rgb(126, 190, 192);
+	color: rgb(65, 39, 40);
+	font-size: 30px;
+	font-weight: 600;
+	height: 100px;
+	margin: 50px 550px 0 550px;
+	box-shadow: 0 8px 12px rgb(178, 178, 178);
+}
